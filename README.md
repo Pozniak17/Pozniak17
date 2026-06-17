@@ -1,6 +1,6 @@
 ### Hi, I'm Yevhenii 👋
 
-I'm Yevhenii Pozniak, and I’m a FullStack Developer with 2 years of experience. I work with React, Next.js, and TypeScript, and have strong skills in responsive layout development. I graduated from the GoIT FullStack program and participated in both team and commercial projects. I’m experienced with REST APIs, Git, Webpack, and other modern tools.
+I'm Yevhenii Pozniak, and I’m a FullStack Developer with 2 years of experience. I work with React, Next.js, and TypeScript, and have strong skills in responsive layout development. I’m experienced with REST APIs, Cloudflare, Hetzner, Git, Webpack, and other tools.
 
 📫 Reach me out!
 
